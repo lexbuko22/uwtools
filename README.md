@@ -10,4 +10,4 @@ Comprehensive documentation is available for [the development version](https://u
 
 ## Examples of API Tools
 
-Juptyer notebook containing examples of how to utilize API access to uwtools is available here:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ufs-community/uwtools/notebooks?labpath=notebooks%2Fexample.ipynb)
+Jupyter notebook containing examples of how to utilize API access to uwtools is available [here](https://mybinder.org/v2/gh/ufs-community/uwtools/notebooks?labpath=notebooks%2Fexample.ipynb target="_blank")
