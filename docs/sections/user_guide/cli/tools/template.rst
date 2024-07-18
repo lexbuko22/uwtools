@@ -140,7 +140,7 @@ and a YAML file called ``values.yaml`` with contents:
 
 Note that, in the previous two examples, the ``var=val`` syntax preceding the ``uw`` command is shell syntax for exporting environment variable ``var`` only for the duration of the command that follows. It should not be confused with the two ``key=value`` pairs later on the command line, which are arguments to ``uw``.)
 
-* Jinja2 supports references to additional templates via, for example, `import <https://jinja.palletsprojects.com/en/latest/templates/#import>`_ expressions, and ``uw`` provides support as follows:
+* Jinja2 supports references to additional templates via, for example, :sphinx:`import <import>` expressions, and ``uw`` provides support as follows:
 
   #. By default, the directory containing the primary template file is used as the search path for additional templates.
   #. The optional ``--search-path`` flag overrides the default search path with any number of explicitly specified, colon-separated paths.

@@ -17,7 +17,7 @@ Optional arguments:
   --config-file PATH, -c PATH
       Path to UW YAML config file (default: read from stdin)
   --cycle CYCLE
-      The cycle in ISO8601 format (e.g. 2024-05-29T12)
+      The cycle in ISO8601 format (e.g. 2024-07-17T06)
   --leadtime LEADTIME
       The leadtime as hours[:minutes[:seconds]]
   --dry-run
